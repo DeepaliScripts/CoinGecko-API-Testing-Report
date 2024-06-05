@@ -11,8 +11,7 @@ This repository contains a comprehensive report on the testing of the CoinGecko 
 
 **How to Use**
 
-Download or Clone: 
-1. Clone this repository to your local machine or download the report files directly.
+1. Download or Clone: Clone this repository to your local machine or download the report files directly.
 2. View the Report: Open the report file (e.g., "CoinGecko_API_Testing_Report.pdf") to review the detailed findings and recommendations.
 
 
