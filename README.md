@@ -16,10 +16,12 @@ This repository contains a comprehensive report on the testing of the CoinGecko 
 
 
 **Prerequisites**
+
 Postman or similar tool for API testing.
 JMeter for performance testing.
 
 **Basic understanding of API testing methodologies and security concepts.**
+
 Contact
 For any questions or feedback, please contact at deepaligautam.er@gmail.com
 
