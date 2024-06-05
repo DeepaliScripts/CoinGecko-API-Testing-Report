@@ -10,8 +10,11 @@ This repository contains a comprehensive report on the testing of the CoinGecko 
 5. Conclusion and Recommendations: Summary of findings and suggested improvements.
 
 **How to Use**
-Download or Clone: Clone this repository to your local machine or download the report files directly.
-View the Report: Open the report file (e.g., "CoinGecko_API_Testing_Report.pdf") to review the detailed findings and recommendations.
+
+Download or Clone: 
+1. Clone this repository to your local machine or download the report files directly.
+2. View the Report: Open the report file (e.g., "CoinGecko_API_Testing_Report.pdf") to review the detailed findings and recommendations.
+
 
 **Prerequisites**
 Postman or similar tool for API testing.
